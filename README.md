@@ -26,11 +26,6 @@ A professional, responsive loan payment calculator for computing EMI (Equated Mo
 
 ## Deployment
 
-### Cloudflare Pages (Recommended - Free)
-1. Push this repo to GitHub
-2. Connect to Cloudflare Pages
-3. Deploy automatically on every push
-
 ### Local
 Simply open the HTML file in your browser—no server needed.
 
